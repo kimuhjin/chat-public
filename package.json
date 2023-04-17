@@ -1,4 +1,5 @@
 {
+  "homepage": "https://kimuhjin.github.io/chat-public",
   "name": "chat",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -54,6 +57,7 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
+    "gh-pages": "^5.0.0",
     "jest": "^29.5.0",
     "prettier": "^2.8.7",
     "ts-jest": "^29.1.0",
