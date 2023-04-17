@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/chat-public/static/css/main.c4f6736d.css",
+    "main.js": "/chat-public/static/js/main.4041a9f2.js",
+    "static/js/787.35cea4b2.chunk.js": "/chat-public/static/js/787.35cea4b2.chunk.js",
+    "static/media/system_image_1.png": "/chat-public/static/media/system_image_1.938fd7c7f17c39bc6f75.png",
+    "static/media/system_image_7.png": "/chat-public/static/media/system_image_7.21c404cb1df292cb27a8.png",
+    "static/media/system_image_6.png": "/chat-public/static/media/system_image_6.cb7800817866867b6b5d.png",
+    "static/media/system_image_5.png": "/chat-public/static/media/system_image_5.abd87b85b1837d1878a7.png",
+    "static/media/system_image_4.png": "/chat-public/static/media/system_image_4.63ff143820f16336a244.png",
+    "static/media/system_image_3.png": "/chat-public/static/media/system_image_3.f5a9fe7ff8c723668a79.png",
+    "static/media/system_image_2.png": "/chat-public/static/media/system_image_2.98a0f909ae049a5a0cdb.png",
+    "static/media/img-profile-4.png": "/chat-public/static/media/img-profile-4.5769a79a2eb6522a88f0.png",
+    "static/media/img-profile-1.png": "/chat-public/static/media/img-profile-1.0b799715d5c82d5c874b.png",
+    "static/media/img-profile-2.png": "/chat-public/static/media/img-profile-2.56c3d4f8452ea891b563.png",
+    "static/media/img-profile-7.png": "/chat-public/static/media/img-profile-7.480a9134a066fd26ba42.png",
+    "static/media/img-profile-3.png": "/chat-public/static/media/img-profile-3.709406e9837e165e37d7.png",
+    "static/media/img-profile-5.png": "/chat-public/static/media/img-profile-5.767c19350186f1e36881.png",
+    "static/media/img-profile-6.png": "/chat-public/static/media/img-profile-6.9083bba1098f0b2c5cf5.png",
+    "index.html": "/chat-public/index.html",
+    "static/media/header_profile.svg": "/chat-public/static/media/header_profile.84302687566a899e0361b8ec1fdd7ac6.svg",
+    "static/media/header_upload.svg": "/chat-public/static/media/header_upload.877f95a40fe6c6fbeba15ca5c895be96.svg",
+    "static/media/header_search.svg": "/chat-public/static/media/header_search.1471336beecf72b6cd268a89fc96f255.svg",
+    "static/media/header_back.svg": "/chat-public/static/media/header_back.e62bd421bb179cd381d344b8b81c4e9f.svg",
+    "static/media/chat_room_send.svg": "/chat-public/static/media/chat_room_send.6002591c3a1e0540e117a0e4c353030d.svg",
+    "static/media/chat_room_cancel.svg": "/chat-public/static/media/chat_room_cancel.9d17efefc2e468ed26c25ba0e0fcc79f.svg",
+    "static/media/header_hamburger.svg": "/chat-public/static/media/header_hamburger.e0ee778d66914f4a2c4bd1a1d120a8ff.svg",
+    "main.c4f6736d.css.map": "/chat-public/static/css/main.c4f6736d.css.map",
+    "main.4041a9f2.js.map": "/chat-public/static/js/main.4041a9f2.js.map",
+    "787.35cea4b2.chunk.js.map": "/chat-public/static/js/787.35cea4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4f6736d.css",
+    "static/js/main.4041a9f2.js"
+  ]
+}
